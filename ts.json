@@ -57,8 +57,8 @@
     "id": 211,
     "name": "Home",
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts7.jpg",
-    "priceCurrency": "FREE VISIT",
     "price": 0,
+    "priceCurrency": "FREE VISIT",
     "lat": 16.857375,
     "lng": 120.380578
   }
