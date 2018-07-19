@@ -46,11 +46,11 @@
   },
   {
     "id": 211,
-    "name": "Bohemian and Chic in Paris",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
-    "price": 90,
+    "name": "San Juan Beach",
+    "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts6.jpg",
+    "price": 0,
     "priceCurrency": "PHP",
-    "lat": 48.827855,
-    "lng": 2.350774
+    "lat": 16.656971,
+    "lng": 120.320680
   }
 ]
