@@ -2,7 +2,7 @@
   {
     "id": 145,
     "name": "Bahay Na Bato",
-    "imageUrl": "https://github.com/Chokybells/Syaki/blob/master/images/ts1.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Chokybells/blob/master/images/ts1.jpg",
     "price": 164,
     "priceCurrency": "EUR",
     "lat": 48.884211,
@@ -10,8 +10,8 @@
   },
   {
     "id": 148,
-    "name": "Trendy Apt in Buttes Montmartre",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat2.jpg",
+    "name": "Tangadan Falls",
+    "imageUrl": "https://raw.githubusercontent.com/Chokybells/blob/master/images/ts2.jpg",
     "price": 200,
     "priceCurrency": "EUR",
     "lat": 48.885707,
