@@ -5,15 +5,15 @@
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts1.JPG",
     "price": 164,
     "priceCurrency": "PHP",
-    "lat": 16.8308,
-    "lng": 120.3551
+    "lat": 16.846952,
+    "lng": 120.351677
   },
   {
     "id": 148,
     "name": "Tangadan Falls",
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts2.jpeg",
     "price": 200,
-    "priceCurrency": "EUR",
+    "priceCurrency": "PHP",
     "lat": 48.885707,
     "lng": 2.343543
   },
@@ -22,16 +22,16 @@
     "name": "Baluarte",
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts3.jpg",
     "price": 150,
-    "priceCurrency": "EUR",
-    "lat": 48.885312,
-    "lng": 2.341225
+    "priceCurrency": "PHP",
+    "lat": 16.8308,
+    "lng": 120.3551
   },
   {
     "id": 205,
     "name": "Grapes Farm",
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts4.jpg",
     "price": 115,
-    "priceCurrency": "EUR",
+    "priceCurrency": "PHP",
     "lat": 48.881840,
     "lng": 2.343371
   },
@@ -40,7 +40,7 @@
     "name": "Lighthouse",
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts5.jpg",
     "price": 135,
-    "priceCurrency": "EUR",
+    "priceCurrency": "PHP",
     "lat": 48.888839,
     "lng": 2.339208
   },
@@ -49,7 +49,7 @@
     "name": "Bohemian and Chic in Paris",
     "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
     "price": 90,
-    "priceCurrency": "EUR",
+    "priceCurrency": "PHP",
     "lat": 48.827855,
     "lng": 2.350774
   }
