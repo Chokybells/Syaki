@@ -3,7 +3,7 @@
     "id": 145,
     "name": "Bahay Na Bato",
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts1.JPG",
-    "price": 164,
+    "price": FREE,
     "priceCurrency": "PHP",
     "lat": 16.846952,
     "lng": 120.351677
@@ -12,16 +12,16 @@
     "id": 148,
     "name": "Tangadan Falls",
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts2.jpeg",
-    "price": 200,
+    "price": FREE,
     "priceCurrency": "PHP",
-    "lat": 48.885707,
-    "lng": 2.343543
+    "lat": 16.643372, 
+    "lng": 120.448705
   },
   {
     "id": 201,
     "name": "Baluarte",
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts3.jpg",
-    "price": 150,
+    "price": FREE,
     "priceCurrency": "PHP",
     "lat": 16.8308,
     "lng": 120.3551
