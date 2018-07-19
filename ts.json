@@ -4,7 +4,7 @@
     "name": "Bahay Na Bato",
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/blob/master/ts/ts1.JPG",
     "price": 164,
-    "priceCurrency": "EUR",
+    "priceCurrency": "PHP",
     "lat": 48.884211,
     "lng": 2.346890
   },
