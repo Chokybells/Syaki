@@ -32,8 +32,8 @@
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts4.jpg",
     "price": 0,
     "priceCurrency": "PHP",
-    "lat": 48.881840,
-    "lng": 2.343371
+    "lat": 16.461241, 
+    "lng": 120.334108
   },
   {
     "id": 210,
@@ -41,8 +41,8 @@
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts5.jpg",
     "price": 0,
     "priceCurrency": "PHP",
-    "lat": 48.888839,
-    "lng": 2.339208
+    "lat": 16.614827,
+    "lng": 120.280465
   },
   {
     "id": 211,
