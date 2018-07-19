@@ -2,7 +2,7 @@
   {
     "id": 145,
     "name": "Bahay Na Bato",
-    "imageUrl": "https://raw.githubusercontent.com/Chokybells/blob/master/ts/ts1.JPG",
+    "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts1.JPG",
     "price": 164,
     "priceCurrency": "PHP",
     "lat": 48.884211,
@@ -11,7 +11,7 @@
   {
     "id": 148,
     "name": "Tangadan Falls",
-    "imageUrl": "https://raw.githubusercontent.com/Chokybells/blob/master/ts/ts2.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts2.jpg",
     "price": 200,
     "priceCurrency": "EUR",
     "lat": 48.885707,
@@ -20,7 +20,7 @@
   {
     "id": 201,
     "name": "Baluarte",
-    "imageUrl": "https://raw.githubusercontent.com/Chokybells/blob/master/ts/ts3.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts3.jpg",
     "price": 150,
     "priceCurrency": "EUR",
     "lat": 48.885312,
@@ -29,7 +29,7 @@
   {
     "id": 205,
     "name": "Grapes Farm",
-    "imageUrl": "https://raw.githubusercontent.com/Chokybells/blob/master/ts/ts4.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts4.jpg",
     "price": 115,
     "priceCurrency": "EUR",
     "lat": 48.881840,
@@ -38,7 +38,7 @@
   {
     "id": 210,
     "name": "Lighthouse",
-    "imageUrl": "https://raw.githubusercontent.com/Chokybells/blob/master/ts/ts5.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts5.jpg",
     "price": 135,
     "priceCurrency": "EUR",
     "lat": 48.888839,
