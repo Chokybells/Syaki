@@ -4,7 +4,7 @@
     "name": "Bahay Na Bato",
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts1.JPG",
     "price": 0,
-    "priceCurrency": "PHP",
+    "priceCurrency": "₱",
     "lat": 16.846952,
     "lng": 120.351677
   },
@@ -13,7 +13,7 @@
     "name": "Tangadan Falls",
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts2.jpeg",
     "price": 0,
-    "priceCurrency": "PHP",
+    "priceCurrency": "₱",
     "lat": 16.643372, 
     "lng": 120.448705
   },
@@ -22,7 +22,7 @@
     "name": "Baluarte",
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts3.jpg",
     "price": 0,
-    "priceCurrency": "PHP",
+    "priceCurrency": "₱",
     "lat": 16.8308,
     "lng": 120.3551
   },
@@ -31,7 +31,7 @@
     "name": "Grapes Farm",
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts4.jpg",
     "price": 0,
-    "priceCurrency": "PHP",
+    "priceCurrency": "₱",
     "lat": 16.461241, 
     "lng": 120.334108
   },
@@ -40,7 +40,7 @@
     "name": "Lighthouse",
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts5.jpg",
     "price": 0,
-    "priceCurrency": "PHP",
+    "priceCurrency": "₱",
     "lat": 16.614827,
     "lng": 120.280465
   },
@@ -49,7 +49,7 @@
     "name": "Thunder Bird Resort",
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts8.jpg",
     "price": 0,
-    "priceCurrency": "PHP",
+    "priceCurrency": "₱",
     "lat": 16.615778, 
     "lng": 120.287214
   },
@@ -57,7 +57,8 @@
     "id": 211,
     "name": "Home",
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts7.jpg",
-    "priceCurrency": "PHP",
+    "priceCurrency": "FREE VISIT",
+    "price": 0,
     "lat": 16.857375,
     "lng": 120.380578
   }
