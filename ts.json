@@ -19,8 +19,8 @@
   },
   {
     "id": 201,
-    "name": "Super 60m2 in trendy neighborhood!",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat3.jpg",
+    "name": "Baluarte",
+    "imageUrl": "https://raw.githubusercontent.com/Chokybells/blob/master/ts/ts3.jpg",
     "price": 150,
     "priceCurrency": "EUR",
     "lat": 48.885312,
@@ -28,8 +28,8 @@
   },
   {
     "id": 205,
-    "name": "Splendide terrasse vue imprenable",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat4.jpg",
+    "name": "Grapes Farm",
+    "imageUrl": "https://raw.githubusercontent.com/Chokybells/blob/master/ts/ts4.jpg",
     "price": 115,
     "priceCurrency": "EUR",
     "lat": 48.881840,
@@ -37,8 +37,8 @@
   },
   {
     "id": 210,
-    "name": "Superbe vue à 2 min du Sacré Coeur",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat5.jpg",
+    "name": "Lighthouse",
+    "imageUrl": "https://raw.githubusercontent.com/Chokybells/blob/master/ts/ts5.jpg",
     "price": 135,
     "priceCurrency": "EUR",
     "lat": 48.888839,
