@@ -46,6 +46,15 @@
   },
   {
     "id": 211,
+    "name": "Poro Point",
+    "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts8.jpg",
+    "price": 0,
+    "priceCurrency": "PHP",
+    "lat": 16.615778, 
+    "lng": 120.287214
+  },
+   {
+    "id": 211,
     "name": "Home",
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts7.jpg",
     "price": 0,
