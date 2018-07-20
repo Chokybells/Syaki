@@ -55,6 +55,24 @@
   },
    {
     "id": 211,
+    "name": "Macho Temple",
+    "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts9.JPG",
+    "price": 0,
+    "priceCurrency": "₱",
+    "lat": 16.621072,
+    "lng": 120.317475
+  },
+   {
+    "id": 211,
+    "name": "Pugad",
+    "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts10.jpg",
+    "price": 0,
+    "priceCurrency": "₱",
+    "lat": 16.336619,
+    "lng": 120.478823
+  },
+   {
+    "id": 211,
     "name": "Home",
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts7.jpg",
     "price": 0,
