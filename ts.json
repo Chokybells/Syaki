@@ -73,6 +73,15 @@
   },
    {
     "id": 211,
+    "name": "San Juan Beach",
+    "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts10.jpg",
+    "price": 0,
+    "priceCurrency": "₱",
+    "lat": 16.656946,
+    "lng": 120.320861
+  },
+   {
+    "id": 211,
     "name": "Home",
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts7.jpg",
     "price": 0,
