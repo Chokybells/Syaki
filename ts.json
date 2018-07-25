@@ -8,7 +8,7 @@
     "lat": 16.857375,
     "lng": 120.380578
   },
-  {
+   {
     "id": 148,
     "name": "El Nido",
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/tss1.jpg",
@@ -17,7 +17,7 @@
     "lat": 11.208247, 
     "lng": 119.462711
   },
-  {
+   {
     "id": 201,
     "name": "Boracay",
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/tss2.jpg",
@@ -35,10 +35,10 @@
     "lat": 16.461241, 
     "lng": 120.334108
   },
- {
+   {
     "id": 210,
     "name": "Paoay",
-   "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/tss4.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/tss4.jpg",
     "price": 0,
     "priceCurrency": "₱",
     "lat": 16.614827,
@@ -69,16 +69,16 @@
     "price": 0,
     "priceCurrency": "₱",
     "lat": 16.336619,
-   "lng": 120.478823
+    "lng": 120.478823
   },
    {
     "id": 211,
     "name": "San Juan Beach",
-   "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts11.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts11.jpg",
     "price": 0,
     "priceCurrency": "₱",
     "lat": 16.656946,
-  "lng": 120.320861
+    "lng": 120.320861
   }
 
    
