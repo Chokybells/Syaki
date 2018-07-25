@@ -37,7 +37,7 @@
   },
  {
     "id": 210,
-    "name": "Lighthouse",
+    "name": "Paoay",
    "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/tss4.jpg",
     "price": 0,
     "priceCurrency": "₱",
@@ -46,7 +46,7 @@
   },
   {
     "id": 211,
-    "name": "Thunder Bird Resort",
+    "name": "Hundred Islands",
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/tss5.jpg",
     "price": 0,
     "priceCurrency": "₱",
@@ -55,7 +55,7 @@
   },
    {
     "id": 211,
-    "name": "Macho Temple",
+    "name": "Villa Vitalis",
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/tss6.JPG",
     "price": 0,
     "priceCurrency": "₱",
@@ -64,7 +64,7 @@
   },
    {
     "id": 211,
-    "name": "Pugad",
+    "name": "Hannah's",
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/tss7.jpg",
     "price": 0,
     "priceCurrency": "₱",
