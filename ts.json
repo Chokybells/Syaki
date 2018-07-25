@@ -38,7 +38,7 @@
  {
     "id": 210,
     "name": "Lighthouse",
-   "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts5.jpg",
+   "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/tss4.jpg",
     "price": 0,
     "priceCurrency": "₱",
     "lat": 16.614827,
@@ -47,7 +47,7 @@
   {
     "id": 211,
     "name": "Thunder Bird Resort",
-    "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts8.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/tss5.jpg",
     "price": 0,
     "priceCurrency": "₱",
     "lat": 16.615778, 
@@ -56,7 +56,7 @@
    {
     "id": 211,
     "name": "Macho Temple",
-    "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts9.JPG",
+    "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/tss6.JPG",
     "price": 0,
     "priceCurrency": "₱",
     "lat": 16.621072,
@@ -65,7 +65,7 @@
    {
     "id": 211,
     "name": "Pugad",
-    "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts10.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/tss7.jpg",
     "price": 0,
     "priceCurrency": "₱",
     "lat": 16.336619,
