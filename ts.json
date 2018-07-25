@@ -1,10 +1,10 @@
  [
    {
     "id": 145,
-    "name": "Bahay Na Bato",
-    "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts1.JPG",
+    "name": "Home",
+    "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts7.jpg",
     "price": 0,
-    "priceCurrency": "₱",
+    "priceCurrency": "KM",
     "lat": 16.846952,
     "lng": 120.351677
   },
