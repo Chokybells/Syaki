@@ -32,8 +32,8 @@
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/tss3.jpg",
     "price": 1229,
     "priceCurrency": "km",
-    "lat": 16.461241, 
-    "lng": 120.334108
+    "lat": 9.828419, 
+    "lng": 124.139353
   },
    {
     "id": 210,
@@ -41,8 +41,8 @@
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/tss4.jpg",
     "price": 169,
     "priceCurrency": "km",
-    "lat": 16.614827,
-    "lng": 120.280465
+    "lat": 18.061824, 
+    "lng": 120.521182
   },
   {
     "id": 211,
@@ -50,8 +50,8 @@
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/tss5.jpg",
     "price": 164,
     "priceCurrency": "km",
-    "lat": 16.615778, 
-    "lng": 120.287214
+    "lat": 16.204009, 
+    "lng": 120.040760 
   },
    {
     "id": 211,
@@ -59,8 +59,8 @@
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/tss6.JPG",
     "price": 61,
     "priceCurrency": "km",
-    "lat": 16.621072,
-    "lng": 120.317475
+    "lat": 17.288371, 
+    "lng": 120.428055
   },
    {
     "id": 211,
@@ -68,8 +68,8 @@
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/tss7.jpg",
     "price": 275,
     "priceCurrency": "km",
-    "lat": 16.336619,
-    "lng": 120.478823
+    "lat": 18.625074, 
+    "lng": 120.857255
   },
    {
     "id": 211,
