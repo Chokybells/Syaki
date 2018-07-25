@@ -4,7 +4,7 @@
     "name": "Home",
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts7.jpg",
     "price": 0,
-    "priceCurrency": "KM",
+    "priceCurrency": "km",
     "lat": 16.857375,
     "lng": 120.380578
   },
@@ -13,7 +13,7 @@
     "name": "El Nido",
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/tss1.jpg",
     "price": 920,
-    "priceCurrency": "KM",
+    "priceCurrency": "km",
     "lat": 11.208247, 
     "lng": 119.462711
   },
@@ -21,8 +21,8 @@
     "id": 201,
     "name": "Boracay",
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/tss2.jpg",
-    "price": 0,
-    "priceCurrency": "₱",
+    "price": 746,
+    "priceCurrency": "km",
     "lat": 11.967438, 
     "lng": 121.924900
   },
@@ -30,8 +30,8 @@
     "id": 205,
     "name": "Chocolate Hills",
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/tss3.jpg",
-    "price": 0,
-    "priceCurrency": "₱",
+    "price": 1229,
+    "priceCurrency": "km",
     "lat": 16.461241, 
     "lng": 120.334108
   },
@@ -39,8 +39,8 @@
     "id": 210,
     "name": "Paoay",
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/tss4.jpg",
-    "price": 0,
-    "priceCurrency": "₱",
+    "price": 169,
+    "priceCurrency": "km",
     "lat": 16.614827,
     "lng": 120.280465
   },
@@ -48,8 +48,8 @@
     "id": 211,
     "name": "Hundred Islands",
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/tss5.jpg",
-    "price": 0,
-    "priceCurrency": "₱",
+    "price": 164,
+    "priceCurrency": "km",
     "lat": 16.615778, 
     "lng": 120.287214
   },
@@ -57,8 +57,8 @@
     "id": 211,
     "name": "Villa Vitalis",
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/tss6.JPG",
-    "price": 0,
-    "priceCurrency": "₱",
+    "price": 61,
+    "priceCurrency": "km",
     "lat": 16.621072,
     "lng": 120.317475
   },
@@ -66,8 +66,8 @@
     "id": 211,
     "name": "Hannah's",
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/tss7.jpg",
-    "price": 0,
-    "priceCurrency": "₱",
+    "price": 275,
+    "priceCurrency": "km",
     "lat": 16.336619,
     "lng": 120.478823
   },
