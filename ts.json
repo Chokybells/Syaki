@@ -10,8 +10,8 @@
   },
   {
     "id": 148,
-    "name": "Tangadan Falls",
-    "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts2.jpeg",
+    "name": "El Nido",
+    "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/tss1.jpg",
     "price": 0,
     "priceCurrency": "₱",
     "lat": 16.643372, 
@@ -19,8 +19,8 @@
   },
   {
     "id": 201,
-    "name": "Baluarte",
-    "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts3.jpg",
+    "name": "Boracay",
+    "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/tss2.jpg",
     "price": 0,
     "priceCurrency": "₱",
     "lat": 16.8308,
@@ -28,8 +28,8 @@
   },
   {
     "id": 205,
-    "name": "Grapes Farm",
-    "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts4.jpg",
+    "name": "Chocolate Hills",
+    "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/tss3.jpg",
     "price": 0,
     "priceCurrency": "₱",
     "lat": 16.461241, 
