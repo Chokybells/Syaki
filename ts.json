@@ -75,46 +75,46 @@
     "id": 211,
     "name": "Baluarte Vigan",
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/tss8.jpg",
-    "price": 275,
+    "price": 110,
     "priceCurrency": "km",
-    "lat": 18.625074, 
-    "lng": 120.857255
+    "lat": 17.551163,  
+    "lng": 120.377142
   },
   {
     "id": 211,
-    "name": "Siargo Islands",
+    "name": "Siargo Island",
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/tss9.jpg",
-    "price": 275,
+    "price": 1653,
     "priceCurrency": "km",
-    "lat": 18.625074, 
-    "lng": 120.857255
+    "lat": 9.845164, 
+    "lng": 126.045691
   },
   {
     "id": 211,
     "name": "Coron",
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/tss10.jpg",
-    "price": 275,
+    "price": 749,
     "priceCurrency": "km",
-    "lat": 18.625074, 
-    "lng": 120.857255
+    "lat": 11.990649, 
+    "lng": 120.211495
   },
   {
     "id": 211,
-    "name": "Samal Islands",
+    "name": "Samal Island",
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/tss11.jpg",
-    "price": 275,
+    "price": 1798,
     "priceCurrency": "km",
-    "lat": 18.625074, 
-    "lng": 120.857255
+    "lat": 7.100808, 
+    "lng": 125.719441
   },
    {
     "id": 211,
-    "name": "Mactan Islands",
+    "name": "Mactan Island",
     "imageUrl": "https://raw.githubusercontent.com/Chokybells/Syaki/master/ts/ts12.jpg",
-    "price": 0,
-    "priceCurrency": "₱",
-    "lat": 16.656946,
-    "lng": 120.320861
+    "price": 1155,
+    "priceCurrency": "km",
+    "lat": 10.266927,
+    "lng":  123.963826
   }
 
    
